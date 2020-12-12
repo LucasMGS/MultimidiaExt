@@ -1,0 +1,31 @@
+.video-title-container h2 {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.video-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.video-container iframe {
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+.image-title-container {
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.images-container {
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.images-container img {
+    margin: 10px;
+}
